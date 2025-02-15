@@ -11,6 +11,12 @@ Hospital Navigator is a web-based platform designed to help users efficiently lo
  User Authentication Secure login and account management.
  Respnsive Design for all devices.
 
+# Screenshots
+
+ ![Screenshot 2025-02-15 223931](https://github.com/user-attachments/assets/31491f8e-1a5c-42e6-8513-e256b25446e6)
+ ![Screenshot 2025-02-15 224035](https://github.com/user-attachments/assets/73448de7-526a-4828-b1c0-9be0b0f210b4)
+
+
 # Tech Stack
  Frontend: REact.js, React Router
  Authentication:Auth0
